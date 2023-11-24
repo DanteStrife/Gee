@@ -1,0 +1,14 @@
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.AssemblyInfo.cs
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\bin\Debug\net7.0\HomeWork4.exe
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\bin\Debug\net7.0\HomeWork4.deps.json
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\bin\Debug\net7.0\HomeWork4.runtimeconfig.json
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\bin\Debug\net7.0\HomeWork4.dll
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\bin\Debug\net7.0\HomeWork4.pdb
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.dll
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\refint\HomeWork4.dll
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.pdb
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\HomeWork4.genruntimeconfig.cache
+C:\Users\ARS-9\Desktop\C# Seminar\HomeWork4\obj\Debug\net7.0\ref\HomeWork4.dll

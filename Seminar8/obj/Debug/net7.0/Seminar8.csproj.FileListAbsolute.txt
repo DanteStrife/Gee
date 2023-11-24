@@ -1,0 +1,14 @@
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\bin\Debug\net7.0\Seminar8.exe
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\bin\Debug\net7.0\Seminar8.deps.json
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\bin\Debug\net7.0\Seminar8.runtimeconfig.json
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\bin\Debug\net7.0\Seminar8.dll
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\bin\Debug\net7.0\Seminar8.pdb
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.AssemblyInfoInputs.cache
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.AssemblyInfo.cs
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.csproj.CoreCompileInputs.cache
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.dll
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\refint\Seminar8.dll
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.pdb
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\Seminar8.genruntimeconfig.cache
+C:\Users\ARS-9\Desktop\C# Seminar\Seminar8\obj\Debug\net7.0\ref\Seminar8.dll
